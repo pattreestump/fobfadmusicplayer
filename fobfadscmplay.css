@@ -4,7 +4,7 @@
 #player #baseLeft{ width:93px; }
 #player #baseRight{ width:145px;}
 #player .button{  width:26px; }
-#player #play{ background:url(https://github.com/pattreestump/fobfadmusicplayer/blob/master/Playbutton.png); }
+#player #play{ background:url(https://github.com/pattreestump/fobfadmusicplayer/blob/master/Main.png); }
 #player #play,#player #pause{ left:26px; }
 #player #previous{ left:0px; }
 #player #next{ left:52px; }
